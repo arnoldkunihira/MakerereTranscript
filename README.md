@@ -1,2 +1,2 @@
 # MakerereTranscript
-University Results for Computer Science
+A document consisting of university results for Computer Science class of 2015.
